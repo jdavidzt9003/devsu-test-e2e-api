@@ -5,31 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9477fac5-979f-4a29-ade1-36fe1673b0bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interactions/OpenPlaceOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/models/PlaceOrderData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/questions/PurchaseConfirmation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasks/AddRandomProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasks/CompletePurchaseForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/ModalPlaceOrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/runner/RunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/compras/ComprasSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/compras/DataTableTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/compras/compra.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/devsu-test-e2e-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-e2e-test-serenity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-e2e-test-serenity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-e2e-test-serenity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-e2e-test-serenity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-e2e-test-serenity/devsu-e2e-test-serenity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
