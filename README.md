@@ -1,6 +1,9 @@
 # devsu-test-e2e-api
 Pruebas para Devsu E2E y API
 
+# Link de Github
+https://github.com/jdavidzt9003/devsu-test-e2e-api.git
+
 # QA Automation Exercise — Serenity BDD + Karate Framework
 
 Proyecto de automatización de pruebas que implementa:
