@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9477fac5-979f-4a29-ade1-36fe1673b0bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../devsu-testing-api-karate/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/interactions/OpenPlaceOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/models/PlaceOrderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/questions/PurchaseConfirmation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasks/AddRandomProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tasks/CompletePurchaseForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/ModalPlaceOrderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ui/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/runner/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/compras/ComprasSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/compras/DataTableTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/compras/compra.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3EJVn2gd38aAblULNo86z0I2QXu" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9477fac5-979f-4a29-ade1-36fe1673b0bc" name="Changes" comment="" />
+      <created>1779896824288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779896824288</updated>
+    </task>
+    <servers />
+  </component>
+</project>
